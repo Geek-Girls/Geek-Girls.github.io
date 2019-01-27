@@ -1,0 +1,54 @@
+# Site settings
+title: Geek-Girls
+email: Girls.tech2019@gmail.com
+url: https://geek-girls.github.io
+description: "Geek-Girls is a college based community aimed at building a collaborative group to discuss and learn anything tech."
+keywords: "Girls, Tech, Women, Coders, Inclusion, Programming, Community"
+skills: "Everything Tech"
+meta_author: Geek-Girls
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+
+
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 188abc 
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Geek-Girls 
+  location: Vellore, India
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: Fill
+  - title: github
+    url: https://github.com/Geek-Girls
+  - title: google
+    url: girls.tech2019@gmail.com
+  - title: slack
+    url: Slack Channel
+
+
+
+
+
+# Credits content
+credits: 'Made with love using Freelancer and hosted on Github Pages.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
